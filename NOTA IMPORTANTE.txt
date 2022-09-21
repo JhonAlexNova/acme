@@ -1,0 +1,7 @@
+1. ejecutar el proyecto con el siguiente comando para su correcto funcionamiento en la carpeta raiz
+php -S localhost:8080
+
+2. EL MER Esta en la carpeta raiz
+3. La db esta en la carpeta raiz ya tiene sentencia create.
+
+4. la conexion esta en la carpeta conexion/config.php  remplazar valores de variables
